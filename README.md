@@ -1,4 +1,4 @@
-# Murder-Mystery-Solution
+# Murder-Mystery-Solution 🕵️
 My solution to the Murder Mystery SQL challenge [from here](https://mystery.knightlab.com/#experienced)
 
 ## Getting necessary details from the crime scene report table:
